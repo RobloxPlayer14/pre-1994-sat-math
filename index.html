@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pre-1994 SAT Trainer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="site-header">
+        <a class="brand" href="#training" data-view="training">Pre-1994 SAT Trainer</a>
+        <nav class="main-nav" aria-label="Main navigation">
+            <button class="nav-link active" type="button" data-view="training">Training</button>
+            <button class="nav-link" type="button" data-view="test">Test</button>
+            <button class="nav-link profile-link" type="button" data-view="profile">Profile</button>
+        </nav>
+    </header>
+    <main>
+        <section id="training-view" class="page-view"><div class="page-heading"><p class="eyebrow">Training</p><h1>Build your SAT foundation.</h1><p>Choose a subject to practice focused questions from the pre-1994 SAT.</p></div><div id="subject-cards" class="card-grid subject-grid"></div></section>
+        <section id="subject-view" class="page-view hidden"><button class="back-link" type="button" data-action="back-training">Back to Training</button><div class="page-heading compact-heading"><p class="eyebrow" id="subject-eyebrow"></p><h1 id="subject-title"></h1><p>Choose a topic to begin a focused practice set.</p></div><div id="topic-cards" class="card-grid topic-grid"></div></section>
+        <section id="quiz-view" class="page-view hidden"><div class="quiz-topline"><button class="back-link" type="button" data-action="back-topics">Back to Topics</button><span id="question-number" class="question-count"></span></div><div class="quiz-panel"><div class="quiz-header"><div><p class="eyebrow" id="section-name"></p><p class="topic-label" id="quiz-topic"></p></div><div id="progress-label" class="progress-label"></div></div><div class="progress-track"><div id="quiz-progress" class="progress-value"></div></div><h2 id="question"></h2><div id="answers" class="answer-list"></div><div id="feedback" class="feedback hidden" aria-live="polite"></div><button id="next-button" class="primary-button" type="button">Next Question</button></div></section>
+        <section id="results-view" class="page-view hidden"><div class="page-heading compact-heading"><p class="eyebrow">Practice complete</p><h1>Review your results.</h1><p id="score"></p></div><div id="results-summary" class="results-summary"></div><div id="results-review" class="results-review"></div><div class="button-row"><button class="secondary-button" type="button" data-action="back-training">Back to Training</button><button class="primary-button" type="button" data-action="retry-quiz">Try Again</button></div></section>
+        <section id="profile-view" class="page-view hidden"><div class="page-heading compact-heading"><p class="eyebrow">Profile</p><h1>Your progress.</h1><p>Your practice record is stored locally in this browser.</p></div><div id="profile-stats" class="stats-grid"></div><div class="progress-panels"><div class="stat-panel"><div class="panel-heading"><h2>Mathematics</h2><span id="math-progress-text"></span></div><div class="progress-track"><div id="math-progress" class="progress-value"></div></div></div><div class="stat-panel"><div class="panel-heading"><h2>Verbal</h2><span id="verbal-progress-text"></span></div><div class="progress-track"><div id="verbal-progress" class="progress-value verbal-progress"></div></div></div></div></section>
+        <section id="test-view" class="page-view hidden"><div class="placeholder-panel"><p class="eyebrow">Test</p><h1>Full simulated tests are coming later.</h1><p>Timed, full-length pre-1994 SAT tests will be added here in a future update. Training remains available for focused practice.</p><button class="primary-button" type="button" data-view="training">Go to Training</button></div></section>
+    </main>
+
+    <script src="questions.js"></script>
+    <script src="app.js"></script>
+
+</body>
+</html>
