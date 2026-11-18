@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "sat-site", "runtimeExecutable": "python", "runtimeArgs": ["-m", "http.server", "8094", "--bind", "127.0.0.1"], "port": 8094 }
+  ]
+}

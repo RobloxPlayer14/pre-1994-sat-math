@@ -1,0 +1,476 @@
+{
+ "formCode": "5D",
+ "sha256": "e91a28d4c9cafde2f8a37473929426ab08a201e5ba158ff985443d9bd3bbdee1",
+ "receivedAs": "9ab02bc9-a0b4-4be8-9b2c-7a4df6a9f4d6.pdf",
+ "answerKeySource": "Answer key printed on booklet page 19 ('Correct Answers for Scholastic Aptitude Test'); transcribed by hand and cross-checked against OCR.",
+ "tableSource": "Score Conversion Table printed on booklet page 22; the lowest entry is 'or below'.",
+ "sections": [
+  {
+   "number": 2,
+   "count": 25,
+   "minutes": 30,
+   "answers": "CCEABDCECCAABAEBBEADBDDBE",
+   "types": "MMMMMMMMMMMMMMMMMMMMMMMMM"
+  },
+  {
+   "number": 5,
+   "count": 35,
+   "minutes": 30,
+   "answers": "CDEBEADACBDAABCADABCDACDBDCBDCACADC",
+   "types": "MMMMMMMQQQQQQQQQQQQQQQQQQQQMMMMMMMM"
+  }
+ ],
+ "rawToScaled": {
+  "60": 800,
+  "59": 780,
+  "58": 760,
+  "57": 750,
+  "56": 740,
+  "55": 730,
+  "54": 720,
+  "53": 710,
+  "52": 700,
+  "51": 690,
+  "50": 680,
+  "49": 670,
+  "48": 660,
+  "47": 650,
+  "46": 640,
+  "45": 630,
+  "44": 620,
+  "43": 610,
+  "42": 610,
+  "41": 600,
+  "40": 590,
+  "39": 580,
+  "38": 570,
+  "37": 560,
+  "36": 550,
+  "35": 540,
+  "34": 530,
+  "33": 520,
+  "32": 510,
+  "31": 500,
+  "30": 490,
+  "29": 480,
+  "28": 480,
+  "27": 470,
+  "26": 460,
+  "25": 450,
+  "24": 440,
+  "23": 430,
+  "22": 420,
+  "21": 410,
+  "20": 400,
+  "19": 400,
+  "18": 390,
+  "17": 380,
+  "16": 370,
+  "15": 360,
+  "14": 350,
+  "13": 350,
+  "12": 340,
+  "11": 330,
+  "10": 320,
+  "9": 320,
+  "8": 310,
+  "7": 300,
+  "6": 290,
+  "5": 290,
+  "4": 280,
+  "3": 270,
+  "2": 260,
+  "1": 260,
+  "0": 250,
+  "-1": 240,
+  "-2": 230,
+  "-3": 230,
+  "-4": 220,
+  "-5": 210,
+  "-6": 200
+ },
+ "questions": {
+  "S2-1": {
+   "topics": [
+    "fractions-decimals",
+    "averages"
+   ],
+   "explanation": "The numerator is $4 \\times 0.25 = 1$, and $1 \\div 4 = 0.25$. (It is simply the average of four equal numbers.)"
+  },
+  "S2-2": {
+   "topics": [
+    "word-problems",
+    "ratios-rates"
+   ],
+   "explanation": "Each eraser cost $75 \\div 15 = 5$ cents. Two pencils cost $2 \\times 15 = 30$ cents, which is the value of $30 \\div 5 = 6$ erasers."
+  },
+  "S2-3": {
+   "topics": [
+    "number-properties"
+   ],
+   "explanation": "Addition and multiplication can be regrouped freely, so II and III are true. Subtraction cannot: in I the left side is $5 - 3 = 2$ but the right side is $10 - 2 = 8$. II and III only."
+  },
+  "S2-4": {
+   "topics": [
+    "angles-lines"
+   ],
+   "explanation": "$\\angle PQR = \\frac{2}{3} \\times 90 = 60°$, so $\\angle SQR = \\frac{2}{5} \\times 60 = 24°$. (The figure is not to scale.)"
+  },
+  "S2-5": {
+   "topics": [
+    "equations",
+    "ratios-rates"
+   ],
+   "explanation": "Cross-multiply: $x \\cdot x = 4 \\cdot 16 = 64$, so $x = 8$ (the positive value)."
+  },
+  "S2-6": {
+   "topics": [
+    "fractions-decimals"
+   ],
+   "explanation": "$\\frac{1}{1,000} = 0.001$, so the sum is $1,000 + 1 + 0.001 = 1,001.001$."
+  },
+  "S2-7": {
+   "topics": [
+    "expressions"
+   ],
+   "explanation": "Divide each term by $p$: $\\frac{p^2 + 2p}{p} = p + 2 = 17$. (Substituting first also works: $\\frac{225 + 30}{15} = 17$.)"
+  },
+  "S2-8": {
+   "topics": [
+    "circles"
+   ],
+   "explanation": "Circumference is $2\\pi r$; with $r = \\pi$ it is $2\\pi \\cdot \\pi = 2\\pi^2$."
+  },
+  "S2-9": {
+   "topics": [
+    "number-properties"
+   ],
+   "explanation": "The least common multiple needs $2^2$ (for 4), 3 and 5: $4 \\times 3 \\times 5 = 60$. (30 fails because it is not divisible by 4.)"
+  },
+  "S2-10": {
+   "topics": [
+    "averages"
+   ],
+   "explanation": "An average of 80 for three children means a total of 240. With one child at 80, the other two total 160. To make one as light as possible, make the other as heavy as allowed, 100: the lightest is then $160 - 100 = 60$."
+  },
+  "S2-11": {
+   "topics": [
+    "polygons-area"
+   ],
+   "explanation": "Each shaded piece is half of one of the small squares (cut along a diagonal), and there are three such halves — $1\\frac{1}{2}$ small squares in all. If that area is 3, each small square has area 2, so $PQRS$, made of four of them, has area 8."
+  },
+  "S2-12": {
+   "topics": [
+    "number-properties",
+    "inequalities"
+   ],
+   "explanation": "The product of two negative numbers is positive, so $xy > 0$. Every other choice is negative: $-xy$ is the opposite of a positive number, $x - y < 0$ because $x < y$, the sum of two negatives is negative, and $x^3$ is negative. $xy$ is greatest."
+  },
+  "S2-13": {
+   "topics": [
+    "ratios-rates",
+    "word-problems"
+   ],
+   "explanation": "Together the machines make $300 + 450 = 750$ bolts per hour. 900 bolts take $\\frac{900}{750} = 1.2$ hours, which is 72 minutes."
+  },
+  "S2-14": {
+   "topics": [
+    "triangles"
+   ],
+   "explanation": "In right triangle $ACB$, $BC = \\sqrt{5^2 - 3^2} = 4$, so $CD = 4$ too. Right triangles $ACB$ and $ECD$ share the angle $x$ (at $B$ and at $D$), so they are similar: $\\frac{EC}{CD} = \\frac{AC}{BC} = \\frac{3}{4}$, giving $EC = 3$. Then $BE = BC - EC = 4 - 3 = 1$."
+  },
+  "S2-15": {
+   "topics": [
+    "equations"
+   ],
+   "explanation": "Jane: $x + 2y = 3$. Dave: $2x + 4y = 6$ — exactly twice Jane's equation, so it adds no new information. One equation in two unknowns cannot fix $x$ (for example $x = 1, y = 1$ or $x = 2, y = 0.5$)."
+  },
+  "S2-16": {
+   "topics": [
+    "angles-lines"
+   ],
+   "explanation": "$Q$ is the midpoint, so $PS = 2 \\times 7 = 14$ and $QS = 7$. Then $QR = QS - RS = 7 - 4 = 3$, and $PR = PQ + QR = 7 + 3 = 10$."
+  },
+  "S2-17": {
+   "topics": [
+    "symbols"
+   ],
+   "explanation": "First evaluate inside the box: $1 + 5 = 6$, which is even, so the boxed value is $\\frac{1}{2} \\times 6 = 3$."
+  },
+  "S2-18": {
+   "topics": [
+    "symbols",
+    "number-properties"
+   ],
+   "explanation": "$4q$ is even, so $4q + 1$ is odd. The rule for odd numbers doubles them: $2(4q + 1) = 8q + 2$."
+  },
+  "S2-19": {
+   "topics": [
+    "word-problems",
+    "expressions"
+   ],
+   "explanation": "Developing costs $cx$ cents, which is $\\frac{cx}{100}$ dollars. Add the $d$ dollars for the film: $\\frac{cx}{100} + d$."
+  },
+  "S2-20": {
+   "topics": [
+    "counting-probability"
+   ],
+   "explanation": "The distinct numbers are 0, 2, 4, 6, 8. Any product with 0 is 0. The products of two different nonzero numbers are 8, 12, 16, 24, 32 and 48. That is $1 + 6 = 7$ different values."
+  },
+  "S2-21": {
+   "topics": [
+    "triangles"
+   ],
+   "explanation": "Area $= \\frac{1}{2} \\times$ base $\\times$ height $= \\frac{1}{2} \\times \\frac{6h}{7} \\times h = \\frac{3h^2}{7}$."
+  },
+  "S2-22": {
+   "topics": [
+    "number-properties"
+   ],
+   "explanation": "$35 = 5 \\times 7$, so $xy$ must supply another 5 and 7 (times a perfect square) to make $35xy$ a square. Check the choices: $35 \\times 140 = 4,900 = 70^2$. The others leave an unmatched factor: $35 \\times 5$, $35 \\times 70$, $35 \\times 105$ and $35 \\times 350$ are not squares. And 140 is possible with different integers, e.g. $10 \\times 14$."
+  },
+  "S2-23": {
+   "topics": [
+    "percents",
+    "counting-probability"
+   ],
+   "explanation": "Canceled U.S. stamps: $0.6 \\times 60 = 36$. Canceled non-U.S. stamps: $110 - 36 = 74$. There are $220 - 60 = 160$ non-U.S. stamps, so $160 - 74 = 86$ are neither U.S. nor canceled."
+  },
+  "S2-24": {
+   "topics": [
+    "coordinates",
+    "polygons-area"
+   ],
+   "explanation": "$A$ is at the same height as $B$, 4 units up, on a 45° line from $O$, so $A = (4, 4)$ and $OA = 4\\sqrt{2}$. Then $AB = 9 - 4 = 5$. A parallelogram's perimeter is $2(5 + 4\\sqrt{2}) = 10 + 8\\sqrt{2}$."
+  },
+  "S2-25": {
+   "topics": [
+    "ratios-rates",
+    "circles"
+   ],
+   "explanation": "Areas scale by the square of the length scale: 1 square inch represents $60 \\times 60 = 3,600$ square miles. So $4\\pi$ square inches represent $14,400\\pi$ square miles. (Using 60 instead of 3,600 gives the trap answer $240\\pi$.)"
+  },
+  "S5-1": {
+   "topics": [
+    "equations"
+   ],
+   "explanation": "$x + 3 = 6$ gives $x = 3$; then $3 + y = 8$ gives $y = 5$."
+  },
+  "S5-2": {
+   "topics": [
+    "angles-lines"
+   ],
+   "explanation": "Angles $y$ and $z$ lie on the same side of the right-hand line, between the two slanted lines; $y + z = 180$ tells us those slanted lines are parallel. Then the 40° angle and $x°$ are interior angles on the same side of the left-hand line, so they are also supplementary: $x = 180 - 40 = 140$."
+  },
+  "S5-3": {
+   "topics": [
+    "word-problems",
+    "equations"
+   ],
+   "explanation": "“The sum of $3x$ and 5” is $3x + 5$; “the product of $x$ and $\\frac{1}{3}$” is $\\frac{1}{3}x$. So $3x + 5 = \\frac{1}{3}x$."
+  },
+  "S5-4": {
+   "topics": [
+    "percents"
+   ],
+   "explanation": "Eric owes $14 + 76 = 90$ percent, so he keeps 10 percent of \\$3.50, which is \\$0.35."
+  },
+  "S5-5": {
+   "topics": [
+    "solids",
+    "logic-patterns"
+   ],
+   "explanation": "The three pairs of opposite faces total $3 \\times 10 = 30$. The visible faces show $8 + 4 + 2 = 14$, so the hidden faces total $30 - 14 = 16$."
+  },
+  "S5-6": {
+   "topics": [
+    "equations"
+   ],
+   "explanation": "$4x - 2 = 10$ gives $4x = 12$, so $2x = 6$ and $1 - 2x = 1 - 6 = -5$."
+  },
+  "S5-7": {
+   "topics": [
+    "number-properties"
+   ],
+   "explanation": "Remainders on division by 3 cycle 0, 1, 2, 0, 1, 2, … for consecutive integers. Four in a row must follow that cycle, e.g. 3, 4, 5, 6 give 0, 1, 2, 0. Only choice D fits the pattern (a remainder can never be 3 or 4)."
+  },
+  "S5-8": {
+   "topics": [
+    "fractions-decimals"
+   ],
+   "explanation": "Column A is 0.39 and Column B is 0.309. Line up decimal places: 0.390 > 0.309. Column A is greater."
+  },
+  "S5-9": {
+   "topics": [
+    "expressions"
+   ],
+   "explanation": "With $c = 0$, $a(b + c) = a(b + 0) = ab$. Equal."
+  },
+  "S5-10": {
+   "topics": [
+    "logic-patterns"
+   ],
+   "explanation": "Rows of 5, 6, 7 and 8 chairs total $5 + 6 + 7 + 8 = 26$, so there are 4 rows. Column B is greater."
+  },
+  "S5-11": {
+   "topics": [
+    "number-properties"
+   ],
+   "explanation": "Without knowing the numbers, either product could be larger: $2 \\times 2 = 4 < 3 \\times 2 = 6$, but $10 \\times 2 = 20 > 3 \\times 2 = 6$. Cannot be determined."
+  },
+  "S5-12": {
+   "topics": [
+    "counting-probability",
+    "polygons-area"
+   ],
+   "explanation": "Count systematically. Four small triangles meet at $E$ ($ABE$, $BCE$, $CDE$, $DAE$), and each diagonal splits the rectangle into two large triangles ($ABC$, $ACD$, $ABD$, $BCD$). That is 8, which is more than 6."
+  },
+  "S5-13": {
+   "topics": [
+    "inequalities"
+   ],
+   "explanation": "Both columns subtract the same $t$, so compare $r$ with $s$. Since $r > s$, Column A is greater."
+  },
+  "S5-14": {
+   "topics": [
+    "logic-patterns",
+    "number-properties"
+   ],
+   "explanation": "Members of $P$ that are not in $Q$: 1, 3, 5. The only member of both sets is 6. Any number from Column A is less than 6, so Column B is greater."
+  },
+  "S5-15": {
+   "topics": [
+    "equations"
+   ],
+   "explanation": "$8t - 8 = 40$ gives $8t = 48$, $t = 6$. $9u - 9 = 45$ gives $9u = 54$, $u = 6$. Equal."
+  },
+  "S5-16": {
+   "topics": [
+    "coordinates"
+   ],
+   "explanation": "$P$ lies on the vertical segment joining $(3, 3)$ and $(3, -3)$, so its $y$-coordinate is between $-3$ and $3$ — greater than $-4$. Column A is greater."
+  },
+  "S5-17": {
+   "topics": [
+    "expressions",
+    "number-properties"
+   ],
+   "explanation": "Several positive integers $k$ work: $k = 7$ gives $(x + 3)(x + 4) = 0$, $k = 8$ gives $(x + 2)(x + 6) = 0$, $k = 13$ gives $(x + 1)(x + 12) = 0$. So $k$ can equal 7 or be greater. Cannot be determined."
+  },
+  "S5-18": {
+   "topics": [
+    "exponents-roots"
+   ],
+   "explanation": "$3 \\times 20 \\times 100 = 6,000 = 6 \\times 10^3$, so $n = 3$. Column A is greater."
+  },
+  "S5-19": {
+   "topics": [
+    "circles"
+   ],
+   "explanation": "The chord $BD$ passes through the center $P$, so it is a diameter — the longest chord of the circle. Both $AD$ and $CD$ are shorter than $BD$, so $AD \\times CD < BD \\times BD$. Column B is greater."
+  },
+  "S5-20": {
+   "topics": [
+    "ratios-rates",
+    "exponents-roots"
+   ],
+   "explanation": "$\\frac{3}{6} = \\frac{\\sqrt{x}}{4}$, so $\\sqrt{x} = \\frac{1}{2} \\times 4 = 2$ and $x = 4$. Equal."
+  },
+  "S5-21": {
+   "topics": [
+    "angles-lines"
+   ],
+   "explanation": "Both marked angles lie between the parallel lines on the same side of the transversal, so they are supplementary: $5a + 3b = 180$. That one equation allows $a > b$ (e.g. $a = 30$, $b = 10$) or $a < b$ (e.g. $a = 12$, $b = 40$). Cannot be determined — and the figure is not to scale."
+  },
+  "S5-22": {
+   "topics": [
+    "fractions-decimals"
+   ],
+   "explanation": "Column A: $2 - \\frac{7}{4} = \\frac{1}{4}$, and $1 \\div \\frac{1}{4} = 4$. Column B: $2 + \\frac{7}{4} = 3\\frac{3}{4}$. Column A is greater."
+  },
+  "S5-23": {
+   "topics": [
+    "inequalities"
+   ],
+   "explanation": "Since $x \\le -2$, the greatest value of $18x$ is $18(-2) = -36$. Since $x \\ge -9$, the least value of $4x$ is $4(-9) = -36$. Equal."
+  },
+  "S5-24": {
+   "topics": [
+    "exponents-roots"
+   ],
+   "explanation": "It depends on $a$. If $a > 1$, higher powers are larger (Column B); if $a = 1$ they are equal; if $0 < a < 1$, higher powers are smaller (Column A). Cannot be determined."
+  },
+  "S5-25": {
+   "topics": [
+    "triangles",
+    "polygons-area"
+   ],
+   "explanation": "A triangle inside a 6-by-5 rectangle has a base of at most 6 and a height of at most 5, so its area is at most $\\frac{1}{2} \\times 6 \\times 5 = 15$. The shaded triangle does not reach the full width and height of the rectangle, so its area is less than 15. Column B is greater."
+  },
+  "S5-26": {
+   "topics": [
+    "polygons-area"
+   ],
+   "explanation": "The three sides could be $4 + 4 + w = 18$ (so $w = 10$, perimeter 28) or $4 + w + w = 18$ (so $w = 7$, perimeter 22). The perimeter could equal 22 or be greater. Cannot be determined."
+  },
+  "S5-27": {
+   "topics": [
+    "averages"
+   ],
+   "explanation": "$x + y + z = 3z + z = 4z$, so the average is $\\frac{4z}{3}$. Equal."
+  },
+  "S5-28": {
+   "topics": [
+    "fractions-decimals"
+   ],
+   "explanation": "Each bag holds $8 \\div 100 = 0.08$ ounce."
+  },
+  "S5-29": {
+   "topics": [
+    "equations",
+    "fractions-decimals"
+   ],
+   "explanation": "If $\\frac{1}{3x} = 9$, then $3x$ is the reciprocal of 9: $3x = \\frac{1}{9}$. There is no need to find $x$ itself."
+  },
+  "S5-30": {
+   "topics": [
+    "solids"
+   ],
+   "explanation": "Each layer is 1 foot high and the steps are 1 foot wide, so the square bases have sides 1, 2, 3 and 4 feet. The volumes are $1 + 4 + 9 + 16 = 30$ cubic feet."
+  },
+  "S5-31": {
+   "topics": [
+    "number-properties"
+   ],
+   "explanation": "5 times an even integer is a multiple of 10. The positive multiples of 10 below 30 are 10 and 20 — two of them. (Zero is even, but $5 \\times 0 = 0$ is not positive.)"
+  },
+  "S5-32": {
+   "topics": [
+    "circles",
+    "polygons-area"
+   ],
+   "explanation": "The square's side $OA$ is a radius. Area 2 means $OA^2 = 2$, so the circle's area is $\\pi r^2 = 2\\pi$. (No need to find $r = \\sqrt{2}$.)"
+  },
+  "S5-33": {
+   "topics": [
+    "fractions-decimals",
+    "word-problems"
+   ],
+   "explanation": "The 4 cups of new dressing contain $\\frac{1}{3} \\times 4 = \\frac{4}{3}$ cups of vinegar, of which 1 cup was just added. So the original 2 cups contained $\\frac{1}{3}$ cup of vinegar: $\\frac{1}{3} \\div 2 = \\frac{1}{6}$ of the original dressing."
+  },
+  "S5-34": {
+   "topics": [
+    "triangles",
+    "circles"
+   ],
+   "explanation": "$OP$ and $OQ$ are radii, so triangle $OPQ$ is isosceles and $y = \\frac{180 - x}{2}$. As $x$ ranges between 0 and 40, $y$ ranges between $\\frac{140}{2} = 70$ and $\\frac{180}{2} = 90$: $70 < y < 90$."
+  },
+  "S5-35": {
+   "topics": [
+    "exponents-roots"
+   ],
+   "explanation": "$x = 5^y = 5^{z + 1} = 5 \\cdot 5^z$, so $\\frac{x}{5} = 5^z$."
+  }
+ },
+ "bookLabel": "Test 3"
+}

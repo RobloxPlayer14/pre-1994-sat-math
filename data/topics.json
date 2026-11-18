@@ -1,0 +1,63 @@
+{
+  "areas": [
+    {
+      "id": "arithmetic",
+      "name": "Arithmetic & Number",
+      "description": "Number properties, fractions, percents, ratios, powers and averages.",
+      "topics": [
+        { "id": "number-properties", "name": "Integers & Number Properties", "description": "Odd and even, primes, factors, multiples, divisibility, remainders and digits." },
+        { "id": "fractions-decimals", "name": "Fractions & Decimals", "description": "Operations with fractions and decimals, comparing and ordering numbers." },
+        { "id": "percents", "name": "Percents", "description": "Percent of a quantity, percent change, discounts and interest." },
+        { "id": "ratios-rates", "name": "Ratios, Proportions & Rates", "description": "Ratios, direct proportion, unit rates, speed and work." },
+        { "id": "exponents-roots", "name": "Exponents & Roots", "description": "Powers, square roots, scientific notation and the laws of exponents." },
+        { "id": "averages", "name": "Averages", "description": "Arithmetic mean, weighted averages and sums from averages." }
+      ]
+    },
+    {
+      "id": "algebra",
+      "name": "Algebra",
+      "description": "Expressions, equations, inequalities, defined symbols and word problems.",
+      "topics": [
+        { "id": "expressions", "name": "Expressions & Factoring", "description": "Simplifying, evaluating, expanding and factoring algebraic expressions." },
+        { "id": "equations", "name": "Equations & Systems", "description": "Linear equations, systems of equations and solving for one variable in terms of another." },
+        { "id": "inequalities", "name": "Inequalities & Absolute Value", "description": "Solving and reasoning with inequalities, ranges and absolute value." },
+        { "id": "symbols", "name": "Defined Operations & Symbols", "description": "The classic old-SAT question type: a new symbol or operation is defined and then applied." },
+        { "id": "word-problems", "name": "Word Problems", "description": "Translating a verbal situation into arithmetic or an equation." }
+      ]
+    },
+    {
+      "id": "geometry",
+      "name": "Geometry",
+      "description": "Lines, angles, triangles, circles, area, volume and coordinates.",
+      "topics": [
+        { "id": "angles-lines", "name": "Lines & Angles", "description": "Angle relationships, parallel lines, segments and points on a line." },
+        { "id": "triangles", "name": "Triangles", "description": "Angle sums, isosceles and equilateral triangles, the Pythagorean theorem and similar triangles." },
+        { "id": "circles", "name": "Circles", "description": "Radius, diameter, circumference, area, arcs and inscribed figures." },
+        { "id": "polygons-area", "name": "Polygons, Area & Perimeter", "description": "Rectangles, squares, parallelograms, other polygons and composite regions." },
+        { "id": "solids", "name": "Solids & Volume", "description": "Cubes, rectangular solids, cylinders, surface area and volume." },
+        { "id": "coordinates", "name": "Coordinate Geometry", "description": "Points, distances, slopes and figures in the coordinate plane." }
+      ]
+    },
+    {
+      "id": "reasoning",
+      "name": "Reasoning & Data",
+      "description": "Counting, logic, patterns and reading tables and graphs.",
+      "topics": [
+        { "id": "counting-probability", "name": "Counting & Probability", "description": "Arrangements, combinations, simple probability and overlapping sets." },
+        { "id": "logic-patterns", "name": "Logic & Patterns", "description": "Sequences, ordering, must-be-true reasoning and number puzzles." },
+        { "id": "data", "name": "Tables & Graphs", "description": "Reading and interpreting tables, charts and graphs." }
+      ]
+    }
+  ],
+  "formats": {
+    "mc5": { "name": "Regular multiple choice", "short": "Multiple choice", "choices": ["A", "B", "C", "D", "E"] },
+    "qc4": { "name": "Quantitative comparison", "short": "Quantitative comparison", "choices": ["A", "B", "C", "D"] }
+  },
+  "qcMeanings": {
+    "A": "The quantity in Column A is greater",
+    "B": "The quantity in Column B is greater",
+    "C": "The two quantities are equal",
+    "D": "The relationship cannot be determined from the information given"
+  },
+  "difficultyNames": ["", "Easy", "Easy–medium", "Medium", "Medium–hard", "Hard"]
+}

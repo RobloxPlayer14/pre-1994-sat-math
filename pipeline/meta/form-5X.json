@@ -1,0 +1,477 @@
+{
+ "formCode": "5X",
+ "sha256": "004dafdcaa397e7b75d9f9a19d19984d47c3e1fc89355e981526e0fc4e46d568",
+ "receivedAs": "44c1853d-0925-4293-b688-880554e676bc.pdf",
+ "answerKeySource": "Answer key printed on booklet page 19 ('Correct Answers for Scholastic Aptitude Test'); transcribed by hand and cross-checked against OCR.",
+ "tableSource": "Score Conversion Table printed on booklet page 22; the lowest entry is 'or below'.",
+ "sections": [
+  {
+   "number": 3,
+   "count": 25,
+   "minutes": 30,
+   "answers": "BDBEDBABDAEACAECCEBCABBDD",
+   "types": "MMMMMMMMMMMMMMMMMMMMMMMMM"
+  },
+  {
+   "number": 5,
+   "count": 35,
+   "minutes": 30,
+   "answers": "ABDCEDEACBCABBCDABDBBACBDADDADEEDAE",
+   "types": "MMMMMMMQQQQQQQQQQQQQQQQQQQQMMMMMMMM"
+  }
+ ],
+ "rawToScaled": {
+  "60": 800,
+  "59": 790,
+  "58": 780,
+  "57": 770,
+  "56": 760,
+  "55": 750,
+  "54": 740,
+  "53": 730,
+  "52": 720,
+  "51": 710,
+  "50": 700,
+  "49": 700,
+  "48": 690,
+  "47": 680,
+  "46": 670,
+  "45": 660,
+  "44": 650,
+  "43": 640,
+  "42": 630,
+  "41": 620,
+  "40": 620,
+  "39": 610,
+  "38": 600,
+  "37": 590,
+  "36": 580,
+  "35": 570,
+  "34": 560,
+  "33": 550,
+  "32": 540,
+  "31": 530,
+  "30": 520,
+  "29": 510,
+  "28": 500,
+  "27": 490,
+  "26": 490,
+  "25": 480,
+  "24": 470,
+  "23": 460,
+  "22": 450,
+  "21": 440,
+  "20": 430,
+  "19": 420,
+  "18": 410,
+  "17": 410,
+  "16": 400,
+  "15": 390,
+  "14": 380,
+  "13": 370,
+  "12": 370,
+  "11": 360,
+  "10": 350,
+  "9": 340,
+  "8": 330,
+  "7": 330,
+  "6": 320,
+  "5": 310,
+  "4": 300,
+  "3": 290,
+  "2": 290,
+  "1": 280,
+  "0": 270,
+  "-1": 260,
+  "-2": 250,
+  "-3": 240,
+  "-4": 230,
+  "-5": 230,
+  "-6": 220,
+  "-7": 210,
+  "-8": 200
+ },
+ "questions": {
+  "S3-1": {
+   "topics": [
+    "equations",
+    "fractions-decimals"
+   ],
+   "explanation": "Two fractions with numerator 1 are equal when their denominators are equal: $x + 1 = 2$, so $x = 1$."
+  },
+  "S3-2": {
+   "topics": [
+    "angles-lines"
+   ],
+   "explanation": "$BC = AC - AB = 10 - 3 = 7$ and $DE = DF - EF = 10 - 3 = 7$. So $BC + DE = 14$."
+  },
+  "S3-3": {
+   "topics": [
+    "fractions-decimals"
+   ],
+   "explanation": "The numerator is 11. The denominator is $\\frac{3}{6} + \\frac{2}{6} + \\frac{1}{6} = 1$. So the value is $11 \\div 1 = 11$."
+  },
+  "S3-4": {
+   "topics": [
+    "expressions"
+   ],
+   "explanation": "With $x = -3$, $(x + 3)^2 = 0$ and $-3x = 9$. The value is $0 + 9 = 9$."
+  },
+  "S3-5": {
+   "topics": [
+    "fractions-decimals"
+   ],
+   "explanation": "Each fraction equals $\\frac{1}{2}$, so the product is $(\\frac{1}{2})^4 = \\frac{1}{16}$."
+  },
+  "S3-6": {
+   "topics": [
+    "percents",
+    "fractions-decimals"
+   ],
+   "explanation": "20 percent of $\\frac{3}{2}$ is $0.2 \\times 1.5 = 0.3$, and 10 percent of that is $0.03$."
+  },
+  "S3-7": {
+   "topics": [
+    "exponents-roots",
+    "equations"
+   ],
+   "explanation": "$2^y = 8 = 2^3$ gives $y = 3$. Then $\\frac{x}{2} = 3$, so $x = 6$."
+  },
+  "S3-8": {
+   "topics": [
+    "number-properties",
+    "logic-patterns"
+   ],
+   "explanation": "Units column: $X + 1$ ends in 7, so $X = 6$ (no carry). Tens column: $7 + 6 = 13$, so $Y = 3$ and the 1 carries to make 137. Check: $76 + 61 = 137$."
+  },
+  "S3-9": {
+   "topics": [
+    "polygons-area"
+   ],
+   "explanation": "A square of area 9 has side 3. Covering a 9-by-9 square takes 3 rows of 3, or 9 squares. (Equivalently: area 81 divided by 9.)"
+  },
+  "S3-10": {
+   "topics": [
+    "equations"
+   ],
+   "explanation": "Divide each equation by its $x$ coefficient's factor to reach the form $x + 2y = c$: I gives $x + 2y = 4$, II gives $x + 2y = 4$, III gives $x + 2y = 2$, and IV gives $x + 2y = \\frac{8}{3}$. Only I and II are the same equation."
+  },
+  "S3-11": {
+   "topics": [
+    "polygons-area",
+    "expressions"
+   ],
+   "explanation": "Area = length × width, so width = area ÷ length $= \\frac{1}{x + 1}$."
+  },
+  "S3-12": {
+   "topics": [
+    "number-properties"
+   ],
+   "explanation": "A number divisible by 4 and by 15 is divisible by their least common multiple, 60 (they share no factors). Every multiple of 60 is divisible by 6. The others can fail: 60 itself is not divisible by 8, 18, 24 or 45."
+  },
+  "S3-13": {
+   "topics": [
+    "averages",
+    "data"
+   ],
+   "explanation": "Write the readings as signed numbers: $-10$, $-2$ and $+15$. Their sum is 3, so the average is $3 \\div 3 = 1$: one degree above zero."
+  },
+  "S3-14": {
+   "topics": [
+    "ratios-rates"
+   ],
+   "explanation": "$720 \\times 20 = 14,400$ flicks per hour. An hour has 3,600 seconds, so the rate is $14,400 \\div 3,600 = 4$ flicks per second."
+  },
+  "S3-15": {
+   "topics": [
+    "averages"
+   ],
+   "explanation": "Sum = average × count = $7n \\times 7 = 49n$."
+  },
+  "S3-16": {
+   "topics": [
+    "angles-lines",
+    "triangles"
+   ],
+   "explanation": "Use the two triangles that the slanted lines form with the horizontal line. In the upper triangle, one angle is 30° and the angle at the 70° crossing is its supplement, $180 - 70 = 110°$, so $x = 180 - 30 - 110 = 40$. In the lower triangle, the angle at that crossing is 70° (vertical angles) and another is 30°, so $y = 180 - 30 - 70 = 80$. Therefore $x + y = 120$."
+  },
+  "S3-17": {
+   "topics": [
+    "inequalities",
+    "exponents-roots"
+   ],
+   "explanation": "As $x$ grows, $\\frac{1}{x}$ shrinks, so $1 - \\frac{1}{x}$ grows (I increases). $\\sqrt{x}$ grows with $x$ (II increases). $\\frac{1}{x^2}$ shrinks as $x$ grows (III decreases). So I and II only."
+  },
+  "S3-18": {
+   "topics": [
+    "triangles"
+   ],
+   "explanation": "Area is $\\frac{1}{2} \\times$ base $\\times$ height. $\\triangle PQR$'s base is 3 times as long and its height is 2 times as long, so its area is $3 \\times 2 = 6$ times as large."
+  },
+  "S3-19": {
+   "topics": [
+    "logic-patterns"
+   ],
+   "explanation": "Going backward, each earlier number is 5 more. From the 10th to the 5th number is 5 steps back: $27 + 5 \\times 5 = 52$."
+  },
+  "S3-20": {
+   "topics": [
+    "triangles",
+    "polygons-area"
+   ],
+   "explanation": "Right triangles $QRM$ and $TWM$ have equal legs $QR = TW = 6$ and $RM = MW$, so they are congruent and their angles at $M$ are equal. Together with the 60° angle they fill a straight angle, so each is $\\frac{180 - 60}{2} = 60°$. Each triangle is then a 30°-60°-90° triangle whose long leg is 6, so the short leg is $RM = \\frac{6}{\\sqrt{3}} = 2\\sqrt{3}$. Hence $RW = 2 \\times 2\\sqrt{3} = 4\\sqrt{3}$."
+  },
+  "S3-21": {
+   "topics": [
+    "word-problems"
+   ],
+   "explanation": "The peak is 2,000 m above sea level and the mountain is 1,000 m high, so its base is at 1,000 m. The well goes 100 m below that: 900 m above sea level."
+  },
+  "S3-22": {
+   "topics": [
+    "circles",
+    "fractions-decimals"
+   ],
+   "explanation": "Let the large radius be 3, so each small radius is 1. Large area $9\\pi$; the two small circles together cover $2\\pi$; the shaded area is $7\\pi$. The ratio is $\\frac{7\\pi}{9\\pi} = \\frac{7}{9}$."
+  },
+  "S3-23": {
+   "topics": [
+    "percents",
+    "word-problems"
+   ],
+   "explanation": "A 30-minute call costs 90 cents for the first 3 minutes plus $27c$ cents for the other 27 minutes: $0.90 + 0.27c$ dollars. A 65 percent reduction means paying 35 percent: $0.35(0.90 + 0.27c)$."
+  },
+  "S3-24": {
+   "topics": [
+    "circles",
+    "polygons-area"
+   ],
+   "explanation": "Both circles have radius $s$ and pass through $B$ and $D$. Angle $BAD$ is 90°, so the quarter of circle $A$ between $B$ and $D$ lies inside circle $C$ and is not on the outline; the remaining $\\frac{3}{4}$ of the circle is. The same holds for circle $C$. Perimeter: $2 \\times \\frac{3}{4} \\times 2\\pi s = 3\\pi s$."
+  },
+  "S3-25": {
+   "topics": [
+    "logic-patterns"
+   ],
+   "explanation": "Track the order, alternately moving the left wire and then the right wire to the middle: ABC → BAC → BCA → CBA → CAB → ACB → ABC. The original order first returns at braid 6."
+  },
+  "S5-1": {
+   "topics": [
+    "number-properties"
+   ],
+   "explanation": "Compare without multiplying everything out. Choice A, $22 \\times 22 \\times 222$, is about $500 \\times 222 \\approx 107,000$. Choice C, $4 \\times 22 \\times 222$, replaces one factor of 22 with 4, so it is smaller; B and D replace 222 or a 22 with smaller numbers; E is only $2^7 = 128$. A is greatest."
+  },
+  "S5-2": {
+   "topics": [
+    "coordinates"
+   ],
+   "explanation": "Distance from the origin is $\\sqrt{x^2 + y^2}$. The distances are 1, $\\frac{1}{2}$, $\\sqrt{\\frac{1}{2}} \\approx 0.71$, $\\approx 0.71$ and $\\sqrt{2} \\approx 1.41$. The nearest is $(0, \\frac{1}{2})$."
+  },
+  "S5-3": {
+   "topics": [
+    "word-problems"
+   ],
+   "explanation": "100 grams is half the heavier object, so it weighs 200 g; 100 grams is twice the lighter object, so it weighs 50 g. The difference is 150 g."
+  },
+  "S5-4": {
+   "topics": [
+    "logic-patterns",
+    "counting-probability"
+   ],
+   "explanation": "The numbers must be different, so the three 9s cannot all be used — at most one 9. Using 9 from $A$ with 7 from $B$ and 8 from $C$ gives $9 + 7 + 8 = 24$. Other choices do worse: 9 from $C$ leaves at most $6 + 7 = 13$ (total 22), and 9 from $B$ gives at most $6 + 9 + 8 = 23$."
+  },
+  "S5-5": {
+   "topics": [
+    "ratios-rates",
+    "number-properties"
+   ],
+   "explanation": "$\\frac{x}{y} = \\frac{1}{2}$ whenever $y = 2x$ with $x \\ne 0$: $(1, 2)$, $(2, 4)$, $(3, 6)$, $(-1, -2)$, … There are infinitely many integer pairs — more than four."
+  },
+  "S5-6": {
+   "topics": [
+    "number-properties"
+   ],
+   "explanation": "$y = 18 - 3x$. With $x$ odd, $3x$ is odd and 18 is even, so $y$ is odd (I true). $y = 3(6 - x)$ is always a multiple of 3 (III true). But $y$ need not be positive: $x = 7$ gives $y = -3$ (II fails). I and III only."
+  },
+  "S5-7": {
+   "topics": [
+    "triangles"
+   ],
+   "explanation": "Draw a horizontal line from $A$ to the vertical through $Q$. It forms a right triangle with hypotenuse $AB = 6$ and vertical leg $5 - 3 = 2$. The horizontal leg equals $PQ$: $\\sqrt{6^2 - 2^2} = \\sqrt{32} = 4\\sqrt{2}$."
+  },
+  "S5-8": {
+   "topics": [
+    "number-properties"
+   ],
+   "explanation": "Column A: $-2 \\times (-8) = 16$ (negative times negative is positive). Column B: $-2 + (-8) = -10$. Column A is greater."
+  },
+  "S5-9": {
+   "topics": [
+    "solids"
+   ],
+   "explanation": "$S$ is the center of the top face, so it sits directly above the center of the bottom face, which is equally far from all four bottom corners. Hence $S$ is the same distance from $R$ as from $T$. Equal."
+  },
+  "S5-10": {
+   "topics": [
+    "exponents-roots"
+   ],
+   "explanation": "$2^2 + 3^2 = 4 + 9 = 13$, while $5^2 = 25$. Column B is greater (squares do not add: $(2 + 3)^2 \\ne 2^2 + 3^2$)."
+  },
+  "S5-11": {
+   "topics": [
+    "angles-lines"
+   ],
+   "explanation": "The two 50° angles show the slanted lines are parallel. Parallel lines that cut off equal segments (3, 3, 3) on one transversal cut off equal segments on every transversal, so $x = y$. Then $\\frac{y}{x} = \\frac{x}{y} = 1$. Equal."
+  },
+  "S5-12": {
+   "topics": [
+    "equations",
+    "word-problems"
+   ],
+   "explanation": "“7 less than $3x$ is 53” means $3x - 7 = 53$, so $3x = 60$ and $x = 20$. Column A is greater."
+  },
+  "S5-13": {
+   "topics": [
+    "logic-patterns"
+   ],
+   "explanation": "If neighbors always add to 9, the numbers around the circle alternate: $a$, $9 - a$, $a$, $9 - a$, … Sectors directly opposite each other are three steps apart, so they hold the two different values. The sector marked $x$ is opposite the 5, so $x = 9 - 5 = 4$. Column B is greater."
+  },
+  "S5-14": {
+   "topics": [
+    "inequalities"
+   ],
+   "explanation": "$x < y$ and $y < -2$, so $x < -2 < 0$. Column B is greater."
+  },
+  "S5-15": {
+   "topics": [
+    "fractions-decimals"
+   ],
+   "explanation": "2.481 rounds to 2.5 (the hundredths digit 8 rounds the 4 up) and 2.493 also rounds to 2.5. Equal."
+  },
+  "S5-16": {
+   "topics": [
+    "ratios-rates"
+   ],
+   "explanation": "A 4 : 5 ratio means $4k$ men and $5k$ women for some positive integer $k$, so the total is $9k$: 9, 18, 27, … It could equal 9 or exceed it. Cannot be determined."
+  },
+  "S5-17": {
+   "topics": [
+    "number-properties"
+   ],
+   "explanation": "$10n = 270$, whose tens digit is 7. Column A is greater."
+  },
+  "S5-18": {
+   "topics": [
+    "symbols"
+   ],
+   "explanation": "The operation does not depend on order, so $2 \\phi 1 = 1 \\phi 2 = 6$, which is less than 7. Column B is greater."
+  },
+  "S5-19": {
+   "topics": [
+    "logic-patterns",
+    "inequalities"
+   ],
+   "explanation": "The statements give Rose > Sam > Juanita, but nothing about how big the gaps are. Rose could have \\$10 against Sam \\$2 and Juanita \\$1 (A greater), or \\$10 against \\$9 and \\$8 (B greater). Cannot be determined."
+  },
+  "S5-20": {
+   "topics": [
+    "expressions"
+   ],
+   "explanation": "Expand: $(r + 6)(r + k) = r^2 + (6 + k)r + 6k$. Matching $9r$ and 18 gives $k = 3$ (and indeed $6k = 18$). Column B is greater."
+  },
+  "S5-21": {
+   "topics": [
+    "percents"
+   ],
+   "explanation": "Red marbles: $200 - 30 - 60 = 110$, which is $\\frac{110}{200} = 55$ percent. Column B is greater."
+  },
+  "S5-22": {
+   "topics": [
+    "polygons-area"
+   ],
+   "explanation": "With the same perimeter $P$, the triangle's side is $\\frac{P}{3}$ and the square's side is $\\frac{P}{4}$. Dividing by fewer sides gives longer sides, so Column A is greater."
+  },
+  "S5-23": {
+   "topics": [
+    "fractions-decimals"
+   ],
+   "explanation": "Multiply top and bottom of Column A by 100: $\\frac{4.02}{0.2} = \\frac{402}{20}$. The columns are equal (both 20.1)."
+  },
+  "S5-24": {
+   "topics": [
+    "number-properties"
+   ],
+   "explanation": "$210 = 2 \\times 3 \\times 5 \\times 7 = 5 \\times 6 \\times 7$, three consecutive integers, so $n = 5$ and $n + 1 = 6$. Column B is greater."
+  },
+  "S5-25": {
+   "topics": [
+    "counting-probability"
+   ],
+   "explanation": "We are told nothing about how many discs carry each number, so either probability could be larger, or they could be equal. Cannot be determined."
+  },
+  "S5-26": {
+   "topics": [
+    "circles",
+    "triangles"
+   ],
+   "explanation": "$OR = OQ = 6$ (radii) and $OQ$ is perpendicular to $PR$ at $M$. In right triangle $OMR$, $OM = \\sqrt{6^2 - 3^2} = \\sqrt{27} \\approx 5.2$. Then $MQ = 6 - OM \\approx 0.8$. Column A is greater."
+  },
+  "S5-27": {
+   "topics": [
+    "solids"
+   ],
+   "explanation": "The two faces share edge $BE$; call its length $h$. Then the other edges are $\\frac{12}{h}$ and $\\frac{8}{h}$, and the volume is $\\frac{96}{h}$, which depends on $h$: with $h = 4$ it is 24, with $h = 2$ it is 48. Cannot be determined."
+  },
+  "S5-28": {
+   "topics": [
+    "fractions-decimals"
+   ],
+   "explanation": "Among negative numbers, the one farthest from zero is least. In decimals: $-0.1$, $-0.01$, $-0.011$, $-0.111…$, $+0.001$. The least is $-\\frac{1}{9}$."
+  },
+  "S5-29": {
+   "topics": [
+    "word-problems",
+    "expressions"
+   ],
+   "explanation": "Value in cents: $5x + 10(x + 7) = 5x + 10x + 70 = 15x + 70$."
+  },
+  "S5-30": {
+   "topics": [
+    "fractions-decimals"
+   ],
+   "explanation": "Each interval has length $\\frac{4\\pi}{9}$, so the sixth interval runs from $\\frac{20\\pi}{9} \\approx 2.22\\pi$ to $\\frac{24\\pi}{9} \\approx 2.67\\pi$. Only $\\frac{12\\pi}{5} = 2.4\\pi$ falls inside."
+  },
+  "S5-31": {
+   "topics": [
+    "solids"
+   ],
+   "explanation": "All three are possible: a cut parallel to a face gives a rectangle (a square); slicing off a corner gives a triangle; a slanted cut through two parallel edges' faces can give a quadrilateral with exactly one pair of parallel sides (a trapezoid)."
+  },
+  "S5-32": {
+   "topics": [
+    "exponents-roots"
+   ],
+   "explanation": "Multiply the number parts and the powers separately: $5.5 \\times 8.0 = 44$ and $10^2 \\times 10^3 = 10^5$. So the product is $44 \\times 10^5 = 4.4 \\times 10^6$, and $y = 6$."
+  },
+  "S5-33": {
+   "topics": [
+    "symbols",
+    "circles"
+   ],
+   "explanation": "A semicircle with diameter $x$ has area $\\frac{1}{2}\\pi(\\frac{x}{2})^2 = \\frac{\\pi x^2}{8}$. So the sum is $\\frac{\\pi(4 + 16)}{8} = \\frac{20\\pi}{8}$, the area of the semicircle whose diameter squared is 20: diameter $\\sqrt{20} = 2\\sqrt{5}$."
+  },
+  "S5-34": {
+   "topics": [
+    "ratios-rates",
+    "averages"
+   ],
+   "explanation": "The average of the two amounts is $3,000 \\div 2 = 1,500$, so the difference is $\\frac{1}{3} \\times 1,500 = 500$. The amounts are \\$1,750 and \\$1,250, in the ratio $7 : 5$."
+  },
+  "S5-35": {
+   "topics": [
+    "percents"
+   ],
+   "explanation": "$p = \\frac{3}{10}r$ means $r = \\frac{10}{3}p$. The excess of $r$ over $p$ is $\\frac{10}{3}p - p = \\frac{7}{3}p$, which is $233\\frac{1}{3}$ percent of $p$."
+  }
+ },
+ "bookLabel": "Test 5"
+}
